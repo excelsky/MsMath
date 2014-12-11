@@ -1,11 +1,12 @@
-Final Project
+Logarithm
 ==============================
 
-| **Name**  | Kicho Yu  |
-|----------:|:-------------|
-| **Hat** | Data Scientist with Stories |
 
+## What is logarithm? ##
 
-## Logarithm ##
+## Why do we learn logarithm? ##
+
 ### Log and Exponential Function Graph Problem ###
 The dataset 
+
+### Square and Square Root Function Graph Problem ###
